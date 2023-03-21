@@ -1,0 +1,10 @@
+1:Google:google.com:443:Search Engine:online
+2:Facebook:facebook.com:443:Social Media:online
+3:Twitter:twitter.com:443:Social Media:online
+4:Local Host:localhost:80:Internal:online
+5:Local Host IP:127.0.0.1:80:Internal:online
+6:PHP:php.net:443:Programming:online
+7:ChatGPT:chat.openai.com:443:Language Model:online
+8:Offline:offlinehostzzz.com:443:Test Offline:offline
+9:Offline Port:offlinehost.com:22:Test Offline:offline
+10:Random:random.org:443:Test Online:online
